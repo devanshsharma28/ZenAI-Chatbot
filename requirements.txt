@@ -1,0 +1,4 @@
+langchain-ollama
+python-dotenv
+gradio
+uuid
